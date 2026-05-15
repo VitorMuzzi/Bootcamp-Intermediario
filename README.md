@@ -11,13 +11,15 @@ Repositório destinado ao armazenamento de projetos acadêmicos para composiçã
 ## Estrutura do Repositório
 Conforme o planejamento, o repositório está organizado em:
 
-* **/web:** Código fonte do portfólio hospedado no GitHub Pages.
+* **index.html:**: todo o codigo html do site, estruturando-o.
+* **style.css:**: toda a estilização do site, adicionando cor e indentidade visual ao portifólio
+* **script.js:**: a interação com o usuário, dando funcionalidade aos botões do site
 
 ## Tecnologias e Ferramentas
-- **Frontend:** JavaScript (ES6+), React.js, HTML5, CSS3.
+- **Frontend:** JavaScript, React.js, HTML, CSS.
 - **Backend & Automação:** Python, Node.js.
 - **Banco de Dados:** SQLite.
 - **Versionamento:** Git & GitHub.
 
 ## Link do Portfólio
-https://vitormuzzi.github.io/BootcampIntermed/
+https://vitormuzzi.github.io/Bootcamp-Intermediario/
