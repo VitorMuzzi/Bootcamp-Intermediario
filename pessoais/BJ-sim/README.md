@@ -1,12 +1,12 @@
-# basicamente eu estava curioso sobre contagem de cartas e queria entender o tipo
-# de vantagem que isso dava pra um jogador e como pesquisar as coisas é sem graça
-# eu fiquei alguns dias estudando blackjack e escrevendo esse codigo pra poder 
-# entender oque eu queria
+ basicamente eu estava curioso sobre contagem de cartas e queria entender o tipo
+ de vantagem que isso dava pra um jogador e como pesquisar as coisas é sem graça
+ eu fiquei alguns dias estudando blackjack e escrevendo esse codigo pra poder 
+ entender oque eu queria
 
-# EXPLICAÇÂO
+# EXPLICAÇÃO DO SISTEMA
 
-# eu criei um robo que simula um jogo de blackjack e 3 grupos diferentes que jogam
-# de jeitos diferentes
+ eu criei um robo que simula um jogo de blackjack e 3 grupos diferentes que jogam
+ de jeitos diferentes
 
     grupo 1: é o jogador medio, nao tem ideia do que ta fazendo, nao entende direito
     as regras e so joga por diversao (e perde dinheiro) (quase aleatorio as escolhas)
@@ -19,5 +19,5 @@
     contar carta, eu usei o metodo hi-lo)
 
 
-# o sistema roda o jogo com as variaveis que voce define previamente e te da as estatisticas
-# que eu julguei interesantes como a mediana e a taxa de falencia.
+ o sistema roda o jogo com as variaveis que voce define previamente e te da as estatisticas
+ que eu julguei interesantes como a mediana e a taxa de falencia.
