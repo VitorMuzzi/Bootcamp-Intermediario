@@ -1,6 +1,6 @@
 # Portfólio - Vitor Gomes Muzzi
 
-Repositório destinado ao armazenamento de projetos acadêmicos para composição de perfil profissional no github.
+Repositório destinado ao armazenamento de projetos acadêmicos para composição de perfil profissional e pessoais no github.
 
 ## Cursos e Formações
 - **Curso atual:** Engenharia de Software, CEUB
